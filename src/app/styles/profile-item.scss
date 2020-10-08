@@ -1,0 +1,22 @@
+.profile-item {
+  .profile-title {
+    font-size: 13px;
+    font-weight: bold;
+  }
+
+  .profile-content {
+    font-weight: normal;
+    font-size: 12px;
+  }
+
+  .profile-content-textarea {
+    border: solid 1px #ddd;
+    padding: 8px;
+  }
+
+  section {
+    margin: 16px 8px;
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+}
